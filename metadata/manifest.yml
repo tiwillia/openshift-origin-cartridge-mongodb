@@ -1,5 +1,6 @@
 Name: mongodb
 Cartridge-Short-Name: MONGODB
+Source-Url: https://github.com/tiwillia/openshift-origin-cartridge-mongodb.git
 Architecture: noarch
 Display-Name: MongoDB NoSQL Database 2.2 
 Description: "MongoDB is a scalable, high-performance, open source NoSQL database."
